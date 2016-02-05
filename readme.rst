@@ -15,6 +15,19 @@ Clone it locally.
 Create a "develop" branch based on "master".
 Fix it per tutorial "normal01".
 
+*******
+Members
+*******
+
+Michael Luo
+Aaron Pua
+
+*************
+Coding Styles
+*************
+
+Allman
+
 ***************
 Project Folders
 ***************
